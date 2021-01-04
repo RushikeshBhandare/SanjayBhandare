@@ -3,13 +3,16 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body{
+    background-image: url(../Images/backgroundImage.png);
+}
 
 nav{
     display: flex;
     justify-content: space-around;    
     align-items: center;
     min-height: 8vh;
-    background-color: rgb(170, 121, 15);
+    background-color: black;   
     font-family: 'Open Sans', sans-serif;
 }
 
